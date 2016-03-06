@@ -8,6 +8,23 @@ I've upgraded past these devices and am looking to clear out my spare room. If n
 
 Thanks for taking a look!
 
+## Quick List
+
+- [Adaptec 6805E (ASR-6805E)](#adaptec-6805e-asr-6805e---official)
+- [Areca 1230 (ARC-1230)](#areca-1230-arc-1230---newegg)
+- [Cooler Master Elite 361](#cooler-master-elite-361---amazon)
+- [Zalman MS800](#zalman-ms800---amazon)
+- [RM31300 3U Rackmount](#rm31300-3u-rackmount---amazon-official)
+- [Z75 Pro3](#z75-pro3---official-newegg)
+- [ZDPE-D12](#zdpe-d12---newegg-official)
+- [ICY DOCK ToughArmor MB994SP-4S](#icy-dock-tougharmor-mb994sp-4s---amazon)
+- [ICY DOCK Dual Bay 3.5" Enclosure](#icy-dock-dual-bay-35-enclosure---official)
+- [EVGA SuperNOVA 1000](#evga-supernova-1000---amazon)
+- [8x Fan Controller](#8x-fan-controller---newegg)
+- [HDMI Extender](#hdmi-extender---amazon)
+- [Creative Sound Blaster X-Fi Titanium HD](#creative-sound-blaster-x-fi-titanium-hd---newegg)
+- [Noctua NC-U120DO A3 CPU Coolers](#noctua-nc-u120do-a3-cpu-coolers---newegg)
+
 ## RAID Cards
 
 ### Adaptec 6805E (ASR-6805E) - [Official](https://www.adaptec.com/en-us/support/raid/sas_raid/sas-6805e/)
