@@ -211,3 +211,17 @@ See link, only used this for a short time a long time ago.
 ```
 $100
 ```
+
+
+### Noctua NC-U120DO A3 CPU Coolers - [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16835608023)
+
+Want to never, ever hear your CPU fans? Got a gigantic case? Trying to quietly cool dual opteron system? These are amazing. I only have them installed for about 3 days, turning a 2u rackmount case into 4u of space (with the lid off). Eventually went back to 2u when I got a sound deadening enclosure.
+
+I still have one nearly full tube of the included compound, which was enough for two processors. Everything else is still around.
+
+![](coolers/20160305-IMG_1913.jpg)
+![](coolers/20160305-IMG_1914.jpg)
+
+```
+$60 each, or both for $100
+```
