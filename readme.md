@@ -13,9 +13,8 @@ Thanks for taking a look!
 - [Adaptec 6805E (ASR-6805E)](#adaptec-6805e-asr-6805e---official)
 - [Areca 1230 (ARC-1230)](#areca-1230-arc-1230---newegg)
 - [Cooler Master Elite 361](#cooler-master-elite-361---amazon)
-- [Zalman MS800](#zalman-ms800---amazon)
+- [Hard Drives / SSDs](#hard-drives)
 - [RM31300 3U Rackmount](#rm31300-3u-rackmount---amazon-official)
-- [Z75 Pro3](#z75-pro3---official-newegg)
 - [ZDPE-D12](#zdpe-d12---newegg-official)
 - [ICY DOCK ToughArmor MB994SP-4S](#icy-dock-tougharmor-mb994sp-4s---amazon)
 - [ICY DOCK Dual Bay 3.5" Enclosure](#icy-dock-dual-bay-35-enclosure---official)
@@ -70,14 +69,13 @@ $100 each, or all three for $225
 
 ## Hard Drives
 
-A small collection of drives, but more and negotiate a discount.
+A small collection of drives, buy more and negotiate a discount.
 
 Count | Drive | Price (each) | Link
 ----- | ----- | ------------ | ------------------
-    4 | WD Red, NASware2.0, 2.5" 1TB | $35 | [Amazon](http://www.amazon.com/Red-1TB-Hard-Disk-Drive/dp/B00EHBES1U)
+    3 | WD Red, NASware2.0, 2.5" 1TB | $35 | [Amazon](http://www.amazon.com/Red-1TB-Hard-Disk-Drive/dp/B00EHBES1U)
     1 | Samsung 1TB 2.5" drive | $35 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16822152291)
     2 | OCZ 32GB 2.5" SSD | $15 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820227510)
-    1 | Corsair P128 (128gb ssd) | $30 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820233087)
     3 | Seagate Constellation ES 500GB  | $50 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16822148756)
 
 ## Cases
@@ -94,19 +92,6 @@ Slick little case that will fit a full atx sized motherboard, but also smaller o
 
 ```
 $20
-```
-
-### Zalman MS800 - [Amazon](http://www.amazon.com/gp/product/B00BG5CBJG)
-
-Wow, just...all the drive space. TEN 5.25 drive bays. Neat mid-case fan mounting solution as well.
-
-![](cases/20160305-IMG_1889.jpg)
-![](cases/20160305-IMG_1890.jpg)
-![](cases/20160305-IMG_1891.jpg)
-![](cases/20160305-IMG_1894.jpg)
-
-```
-$30
 ```
 
 ### RM31300 3U Rackmount - [Amazon](http://www.amazon.com/gp/product/B001LNVX7E), [Official](http://www.chenbro.com/en-global/products/RackmountChassis/3U_Chassis/RM31300)
@@ -130,16 +115,6 @@ $200
 ```
 
 ## Motherboards
-
-### Z75 Pro3 - [Official](http://www.asrock.com/mb/intel/z75%20pro3/), [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16813157304)
-
-Solid motherboard, comes with 32GB of ram (2x16gb sticks) and an Intel i3 cpu. Served both as a media center and even as a VMWare ESXi host for a time (i3 was painful for that, but it _did_ work.) Add a hard drive (see the many above) and a case and you have a nice working system.
-
-![](i3mobo/20160305-IMG_1863.jpg)
-
-```
-$100
-```
 
 ###  ZDPE-D12 - [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16813131373), [Official]()
 
