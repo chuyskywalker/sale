@@ -1,6 +1,6 @@
 # Tech Closet Clearing House
 
-> See add on craigslist for contact infos: http://sfbay.craigslist.org/pen/sop/5479087818.html
+> See add on craigslist for contact infos: http://sfbay.craigslist.org/pen/sop/5494567326.html
 
 Time to clear out the tech closet, and there is **a lot** to get rid of. There are, at least, two full relatively powerful computers here. One of these was a server is datacenter around 5 years ago, the other I used as a over-powered media center and even as a home lab for a little while.
 
