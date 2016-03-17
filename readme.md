@@ -15,7 +15,6 @@ Thanks for taking a look!
 - [Cooler Master Elite 361](#cooler-master-elite-361---amazon)
 - [Hard Drives / SSDs](#hard-drives)
 - [RM31300 3U Rackmount](#rm31300-3u-rackmount---amazon-official)
-- [ZDPE-D12](#zdpe-d12---newegg-official)
 - [ICY DOCK ToughArmor MB994SP-4S](#icy-dock-tougharmor-mb994sp-4s---amazon)
 - [ICY DOCK Dual Bay 3.5" Enclosure](#icy-dock-dual-bay-35-enclosure---official)
 - [EVGA SuperNOVA 1000](#evga-supernova-1000---amazon)
@@ -96,9 +95,7 @@ $20
 
 ### RM31300 3U Rackmount - [Amazon](http://www.amazon.com/gp/product/B001LNVX7E), [Official](http://www.chenbro.com/en-global/products/RackmountChassis/3U_Chassis/RM31300)
 
-I have two of these. The first was in a datacenter, but when it was shipped back they packaged it very poorly and the rails got all messed up (see pictures). However, I liked the case so much that I bought a second one to use in my "LackRack". These cases normally retail for 200+, but since I want both of them gone they're going as a package deal. One of the cases, the one that has bent mounting rails, is in near stock condition. The other went through some deconstruction (not _destruction_ though) so I could mount a regular power supply into the front.
-
-The cases also include one 620w dual power supply that fits this chassis.
+Update -- sold one of the cases, the other is in such disarray there's probaby no way you want it. The cases' included one 620w dual power supply that fits this chassis which is still available. $100 for the powersupply (and the case would be free if you want it).
 
 ![](cases/20160305-IMG_1902.jpg)
 ![](cases/20160305-IMG_1903.jpg)
@@ -111,7 +108,7 @@ The cases also include one 620w dual power supply that fits this chassis.
 ![](dual-ps/20160305-IMG_1911.jpg)
 
 ```
-$200
+$100
 ```
 
 ## Motherboards
