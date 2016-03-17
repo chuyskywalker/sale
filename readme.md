@@ -37,7 +37,7 @@ Thanks for taking a look!
 ![](adaptec-raid/20160305-IMG_1883.jpg)
 
 ```
-$100
+$50
 ```
 
 ### Areca 1230 (ARC-1230) - [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16816131006)
@@ -53,7 +53,7 @@ I'll even throw in enough sata cables of your picking (I have at least 3 dozen, 
 ![](areca/20160305-IMG_1857.jpg)
 
 ```
-$200
+$100
 ```
 
 # SPM394 - [Amazon](http://www.amazon.com/gp/product/B004JPHAF0)
@@ -63,7 +63,7 @@ Neat little device that sits in a 5.25" drive bay slot and can present 5 drives 
 ![](raid-panels/20160305-IMG_1870.jpg)
 
 ```
-$100 each, or all three for $225
+$50 each, or all three for $125
 ```
 
 ## Hard Drives
@@ -72,10 +72,10 @@ A small collection of drives, buy more and negotiate a discount.
 
 Count | Drive | Price (each) | Link
 ----- | ----- | ------------ | ------------------
-    3 | WD Red, NASware2.0, 2.5" 1TB | $35 | [Amazon](http://www.amazon.com/Red-1TB-Hard-Disk-Drive/dp/B00EHBES1U)
-    1 | Samsung 1TB 2.5" drive | $35 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16822152291)
-    2 | OCZ 32GB 2.5" SSD | $15 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820227510)
-    3 | Seagate Constellation ES 500GB  | $50 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16822148756)
+    3 | WD Red, NASware2.0, 2.5" 1TB | $25 | [Amazon](http://www.amazon.com/Red-1TB-Hard-Disk-Drive/dp/B00EHBES1U)
+    1 | Samsung 1TB 2.5" drive | $25 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16822152291)
+    2 | OCZ 32GB 2.5" SSD | $10 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16820227510)
+    3 | Seagate Constellation ES 500GB  | $25 | [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16822148756)
 
 ## Cases
 
@@ -90,7 +90,7 @@ Slick little case that will fit a full atx sized motherboard, but also smaller o
 ![](cases/20160305-IMG_1887.jpg)
 
 ```
-$20
+$10
 ```
 
 ### RM31300 3U Rackmount - [Amazon](http://www.amazon.com/gp/product/B001LNVX7E), [Official](http://www.chenbro.com/en-global/products/RackmountChassis/3U_Chassis/RM31300)
@@ -111,21 +111,6 @@ Update -- sold one of the cases, the other is in such disarray there's probaby n
 $100
 ```
 
-## Motherboards
-
-###  ZDPE-D12 - [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16813131373), [Official]()
-
-Dual Xeon board -- I'm pretty sure 2 x 4-core processors, but it hasn't been powered on in a while. Does come with 64GB (!) of ram. Excellent device for home labs or if you just want a _lot_ of processing power. The fans are, surprisingly, not too loud. 
-
-**Includes the ASMB4-iKVM module.**
-
-![](server-mobo/20160305-IMG_1859.jpg)
-![](server-mobo/20160305-IMG_1860.jpg)
-
-```
-$250
-```
-
 ## Drive Cages
 
 ### ICY DOCK ToughArmor MB994SP-4S - [Amazon](http://www.amazon.com/gp/product/B0040Z924Q)
@@ -135,7 +120,7 @@ These have been stellar for 2.5" drive swapping and storage. Caveats -- First, I
 ![](iceydock-drive-bays/20160305-IMG_1871.jpg)
 
 ```
-$30 each, all three for $75
+$20 each, all three for $50
 ```
 
 ### ICY DOCK Dual Bay 3.5" Enclosure - [Official](http://www.icydock.com/goods.php?id=150)
@@ -147,7 +132,7 @@ Fits where you'd put a floppy disk drive, but you get 2 2.5" drives instead. Hig
 ![](icey-two-bay/20160305-IMG_1877.jpg)
 
 ```
-$15
+$10
 ```
 
 ## Power Supply
@@ -161,7 +146,7 @@ Bought this for the Platinum rating and silent operation mode. Fully modular, to
 ![](evga/20160305-IMG_1898.jpg)
 
 ```
-$150
+$120
 ```
 
 ## Misc
@@ -175,7 +160,7 @@ Not much to say -- makes fans go fast or slow at your whim. Mounts in a FDD slot
 ![](fan-controller/20160305-IMG_1874.jpg)
 
 ```
-$10
+$5
 ```
 
 ### HDMI Extender - [Amazon](http://www.amazon.com/gp/product/B007YIV1DQ)
@@ -186,7 +171,7 @@ Push your HDMI signal over ethernet. Does what it says on the tin, to be honest.
 ![](hdmi-extender/20160305-IMG_1869.jpg)
 
 ```
-$100
+$50
 ```
 
 ### Creative Sound Blaster X-Fi Titanium HD - [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=9SIA4CP1GG1881)
@@ -198,9 +183,8 @@ See link, only used this for a short time a long time ago.
 ![](sb12700/20160305-IMG_1901.jpg)
 
 ```
-$100
+$50
 ```
-
 
 ### Noctua NC-U120DO A3 CPU Coolers - [NewEgg](http://www.newegg.com/Product/Product.aspx?Item=N82E16835608023)
 
@@ -212,5 +196,5 @@ I still have one nearly full tube of the included compound, which was enough for
 ![](coolers/20160305-IMG_1914.jpg)
 
 ```
-$60 each, or both for $100
+$40 each, or both for $70
 ```
